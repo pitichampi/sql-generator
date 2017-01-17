@@ -3,8 +3,8 @@
     "description": "convert Laravel migrations to raw SQL scripts",
     "authors": [
         {
-            "name": "Jayant Soni",
-            "email": "jayant@froiden.com"
+            "name": "Ian Zhang",
+            "email": "24033474@qq.com"
         }
     ],
     "autoload": {
