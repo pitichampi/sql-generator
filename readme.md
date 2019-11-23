@@ -1,3 +1,6 @@
+# THIS REPO HAS MOVED TO A MORE RESPECTFUL GIT HOSTING : https://framagit.org/champigit/sql-generator
+
+
 [![Packagist License](https://poser.pugx.org/froiden/sql-generator/license.png)]()
 [![Total Downloads](https://poser.pugx.org/froiden/sql-generator/d/total.png)](https://packagist.org/packages/froiden/sql-generator)
 
